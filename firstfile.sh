@@ -4,3 +4,4 @@ ls -la
 cd ~
 ls -la
 echo the end of the script
+echo add the line
