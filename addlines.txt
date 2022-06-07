@@ -6,4 +6,4 @@ Fifth line
 Six line
 Seventh line
 ----------------
-this file is commited but not pushed
+this file is not commited and not pushed
