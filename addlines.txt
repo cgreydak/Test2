@@ -1,13 +1,13 @@
-THIS IS THE BEGINNING
+THIS IS THE BEGINNING of the program
 First line
 Second Line
-Third line
-Fouth lne
+Third line in
+Fouth lne in
 Fifth line
 Six line
 Seventh line
 Eighth line
 Nineth line
-tenth line
+Tenth line
+Eleventh line
 THIS IS THE END
-
