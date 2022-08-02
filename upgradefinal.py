@@ -1,12 +1,15 @@
 import os
+print()
+print()
 print("This is Python script to upgrade my Linux Devnet Desktop")
 os.system ("apt update && apt list --upgradable")
+print()
 print()
 print("*************************************")
 print("Check the list of upgradable packages")
 print("and decide if you want upgrade or not")
 print("*************************************")
-print()
+
 print()
 #os.system ("sleep 10")
 print("type y if you want to continue with upgrade or type n if you want to exit")
