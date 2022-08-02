@@ -2,6 +2,8 @@ import os
 print()
 print()
 print("This is Python script to upgrade my Linux Devnet Desktop")
+print()
+print()
 os.system ("apt update && apt list --upgradable")
 print()
 print()
